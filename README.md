@@ -1,1 +1,1 @@
-# timer
+# Alarm Clock / Timer App
